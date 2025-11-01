@@ -67,6 +67,7 @@ plugins:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/
   # This only works if "site_url" is set in mkdocs.yml.
   - social
+  - search
 
 # extensions
 markdown_extensions:
