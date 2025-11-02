@@ -3,7 +3,6 @@
 ## Program Description
 
 Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking them in box.
-For efficiency, the program always chooses the first option when selecting which fossil to revive.
 
 
 <img src="images/AutoFossil.jpg">
