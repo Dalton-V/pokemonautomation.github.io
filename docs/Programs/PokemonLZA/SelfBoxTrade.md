@@ -21,8 +21,6 @@ Trade boxes of Pokémon between two Switches locally.
 
 The location of the cursor in the box does not matter. The program will read it and move it accordingly.
 
-<img src="images/SelfBoxTrade.png">
-
 Once started, the program will swap all the Pokémon in the N boxes on the two Switches.
 
 ## Options
@@ -44,4 +42,5 @@ Pretty self-explanatory.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
