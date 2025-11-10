@@ -12,6 +12,13 @@ While this program is intended for catching a knocked out Pokémon, it can be us
 
 ### Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](../NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+
+**Game Settings:**
+
 1. Save in front of a Pokémon that you would like to catch.
 2. Start the program in the game.
 
@@ -46,6 +53,7 @@ These are timing parameters. You should not need to adjust these.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
