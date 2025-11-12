@@ -1,4 +1,4 @@
-# Post-Kill Catcher (In Beta, Not Released Yet)
+# Post-Kill Catcher
 
 ## Program Description
 
@@ -59,6 +59,7 @@ These are timing parameters. You should not need to adjust these.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
