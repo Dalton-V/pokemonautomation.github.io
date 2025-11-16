@@ -65,7 +65,21 @@ We still support the old setups (Arduino/Teensy/Pro Micro), but they are depreca
 
 The newer controllers are cheaper, much easier to setup, and more reliable than the old ones with manual UART wiring.
 
+If you are affected by the [Power Glitching](PowerGlitching.md) issue on the Switch 2, you will almost certainly want to upgrade to the new controllers.
 
+
+## But happened to the Microcontroller-only (MC) setup?
+
+Unfortunately, Microcontroller (MC) automation has been discontinued. Computer Control (CC) has become so powerful and easy to use that it was no longer worth the effort to maintain the MC automation codebase. We discontinued it only after it had been effectively abandoned for years and we didn't want to keep answering support questions about it.
+
+The old Microcontroller wiki can still be found here:
+
+- [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
+- [Microcontroller Setup Guide](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/SetupGuide/README.md)
+
+However, it already breaks on the latest Switch firmware that added additional icons to the main menu.
+
+If you are dead-set on MC automation without a computer, you will need to look elsewhere.
 
 
 <hr>
