@@ -47,6 +47,16 @@ Numel has a chance to be alpha and will agro the moment you enter the gate. Need
 | Numel<br>Camerupt (Alpha)<br> Drilbur<br> Sandile<br>Krokorok<br> Machop<br> Gible | **Wild Zone 8**<br> **Walk Time in Zone:** 2000 ms<br> Remember to check the alley mentioned above for shiny Trubbish/Garbodor | <img src="images/ShinyHuntLocations/WildZone8-Camerupt.png" width="300"> | 
 -->
 
+
+## Shiny Hunt - Cafe Reset (Still In Beta, Not Released Yet)
+
+Program: [Shiny Hunt - Cafe Reset](ShinyHunt-CafeReset.md)
+
+| **Pokemon** | **Instructions/Settings** | **Screenshots** |
+| --- | --- | --- |
+| Swirlix<br>Swirlix (Alpha) | Nouveau Cafe (Truck No. 3) | [<img src="images/ShinyHuntLocations/CafeReset3-small.jpg" width="300">](images/ShinyHunt-CafeReset3.png) |
+
+
 ## Turbo A
 
 Program: [Turbo A](../NintendoSwitch/TurboA.md) (located under the Nintendo Switch category)

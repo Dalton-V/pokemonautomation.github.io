@@ -94,8 +94,6 @@ When a shiny sound is heard, perform one of the following actions:
 - Stop program and go Home. Send notification.
 - Keep running. Notify on first shiny sound only. (default)
 
-Do not choose *Keep running. Notify on all shiny sounds*.
-
 
 ## Credits
 
