@@ -1,4 +1,4 @@
-# Shiny Hunt - Cafe Reset
+# Shiny Hunt - Cafe Reset (In Beta, Not Released Yet)
 
 See also: [Shiny Hunting Recommendations](ShinyHuntRecommendations.md)
 
